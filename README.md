@@ -1,4 +1,4 @@
-# brew-python
+# homebrew-python
 🍻 Python formulae for the missing package manager for macOS
 
 ## Overview
