@@ -5,7 +5,7 @@ class Python < Formula
   sha256 "d79bc15d456e73a3173a2938f18a17e5149c850ebdedf84a78067f501ee6e16f"
 
   bottle do
-    root_url "https://dl.bintray.com/alexgurrola/bottles-python/"
+    root_url "https://dl.bintray.com/alexgurrola/bottles-python"
     sha256 "60ab136cdd5a56878b109657eefda09f97f559cc450d554da8fd0a035e1b3cc1" => :high_sierra
     #sha256 "" => :sierra
     #sha256 "" => :el_capitan
