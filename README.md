@@ -10,7 +10,7 @@ I plan to build this tap to hold multiple versions of python so one could switch
 ## Installation
 ```sh
 brew tap alexgurrola/python
-brew install alexgurrola/python/python
+brew tap-pin alexgurrola/homebrew-python
 ```
 
 ## Feedback
